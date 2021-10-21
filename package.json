@@ -1,0 +1,19 @@
+{
+  "name": "@t117503445/npm-package-typescript",
+  "version": "0.0.1",
+  "description": "demo for npm package with typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NPM",
+    "TypeScript"
+  ],
+  "author": "117503445",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
