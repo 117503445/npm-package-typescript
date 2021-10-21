@@ -11,10 +11,10 @@
 3. 修改 package.json
 
 - name 包名， 以 `@NPM账号/` 开头
-- version 版本，改为 0.1.0，详见 [语义化版本](https://semver.org/lang/zh-CN)
+- version 版本，改为 0.1.0，详见 [语义化版本](https://semver.org/lang/zh-CN)，后续版本更新使用 [Yarn version](https://yarnpkg.com/cli/version)
 - description 项目描述
 - author 作者
-- license 许可证，详见 <https://spdx.org/licenses/> 的 Identifier
+- license 许可证，详见 [spdx](https://spdx.org/licenses) 的 Identifier
 - keywords 和项目有关的 关键词 数组
 
 4. 去 GitHub Repo Setting 设置 secrets
