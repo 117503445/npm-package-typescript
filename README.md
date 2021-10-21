@@ -15,6 +15,7 @@
 - description 项目描述
 - author 作者
 - license 许可证，详见 <https://spdx.org/licenses/> 的 Identifier
+- keywords 和项目有关的 关键词 数组
 
 4. 去 GitHub Repo Setting 设置 secrets
 
