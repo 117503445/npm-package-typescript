@@ -4,8 +4,8 @@
   "description": "demo for npm package with typescript",
   "main": "index.js",
   "scripts": {
-    "build": "tsc -p tsconfig.build.json",
-    "test": "ts-mocha -p ./tsconfig.test.json ./test/*"
+    "build": "tsc -p ./config/tsconfig.build.json",
+    "test": "ts-mocha -p ./config/tsconfig.test.json ./test/*"
   },
   "keywords": [
     "NPM",
