@@ -1,4 +1,5 @@
-.vscode/
+.github
+.gitattributes
 config/
 src/
 test/
