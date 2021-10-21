@@ -1,6 +1,6 @@
 {
   "name": "@t117503445/npm-package-typescript",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "demo for npm package with typescript",
   "main": "index.js",
   "scripts": {
