@@ -1,0 +1,8 @@
+.vscode/
+config/
+src/
+test/
+.gitignore
+.npmignore
+tsconfig.*
+tslint.json
