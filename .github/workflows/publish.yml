@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - run: echo "Hello tag ${{ github.ref }}"
+      - run: echo "Hello tag ${{ github.event.head_commit.message }}"
       - uses: actions/checkout@v2
       # Setup .npmrc file to publish to npm
       - uses: actions/setup-node@v2
