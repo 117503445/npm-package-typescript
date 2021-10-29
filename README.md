@@ -23,6 +23,12 @@ settings - secrets - New xrepository secret
 
 Name 填入 NPM_TOKEN，Value 填入 自己获取到的 NPM_TOKEN。
 
+5. 去 GitHub Repo Setting 开启 Github Page API 文档托管
+
+settings - Pages - Source 调整为 Branch: gh-pages, /(root)
+
+以本项目为例， 可以在 <https://www.117503445.top/npm-package-typescript/> 查看持续集成的 API 文档。
+
 ## 命令
 
 ```sh
