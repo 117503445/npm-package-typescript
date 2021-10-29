@@ -22,3 +22,11 @@
 settings - secrets - New xrepository secret
 
 Name 填入 NPM_TOKEN，Value 填入 自己获取到的 NPM_TOKEN。
+
+## 命令
+
+```sh
+yarn test # 本地执行单元测试
+yarn build # 编译，用于 CICD
+yarn doc # 生成文档
+```
